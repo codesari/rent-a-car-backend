@@ -1,0 +1,3 @@
+-proje başlangıçları bir template üzerinden de olabilir.böylece her seferinde başlatma komutları yazılmaya gerek kalmaz
+*user application'ı başka bir projeden kopyalayıp entegre ettik,settings'te ilgili ayarları yaptık
+?admin panelden user işlemlerini test ettik.register yapıyor mu login oluyor mu vs..
